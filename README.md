@@ -19,7 +19,6 @@ Just run the command **_npx create-react-app --template lennie_** when initializ
 2. Tailwind CSS
 3. Axios
 
----
+Cheers!
 
-**Cheers!**\
-LNG
+**LNG**
