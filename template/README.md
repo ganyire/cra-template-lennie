@@ -1,7 +1,5 @@
 # CRA TEMPLATE
 
----
-
 **Hello! Hello!**
 Welcome to cra-template-lennie a React-query and Tailwind powered template for Create React App.
 
