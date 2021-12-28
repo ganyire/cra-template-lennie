@@ -18,6 +18,7 @@ Just run the command **_npx create-react-app --template lennie_** when initializ
 1. React Query
 2. Tailwind CSS
 3. Axios
+4. React-router-dom, [version 6](https://reactrouter.com/docs/en/v6)
 
 Cheers!
 

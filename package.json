@@ -1,0 +1,28 @@
+{
+  "author": "",
+  "name": "cra-template-lennie",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "cra-template-lennie",
+    "lennie",
+    "cra",
+    "react-query",
+    "boilerplate"
+  ],
+  "description": "React-query based template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganyire/cra-template-lennie.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
