@@ -11,7 +11,7 @@ Or are you tired of project structures that are agonizing to maintain or extend?
 
 If your answer is yes to all (or some<sup>infinity</sup>) of the above, then you are in the right galaxy.
 
-Just run the command **_npx create-react-app --template lennie_** when initializing your React project and you are good to go.
+Just run the command **_npx create-react-app app-name --template lennie_** when initializing your React project and you are good to go.
 
 ### Important dependencies that comes with template by default
 

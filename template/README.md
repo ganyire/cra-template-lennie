@@ -7,11 +7,11 @@ Do you like <span style="color:red">[React-query](https://react-query.tanstack.c
 Are you a fan of <span style="color:red">[Tailwind CSS](https://tailwindcss.com/docs/installation, "TailwindCSS")</span>, the best utility-first CSS framework in the galaxy?\
 Do you fancy <span style="color:red">[Axios](https://github.com/axios/axios)</span> over fetch API for REST API requests?\
 Are you interested in the [scintillating concoction](https://www.npmjs.com/package/tailwind-styled-components)</span> of [styled-components](https://styled-components.com/docs)</span> and Tailwind CSS?\
-Or are you tired of project structures that are agonizing to maintain or extend?\
+Or are you tired of project structures that are agonizing to maintain or extend?
 
 If your answer is yes to all (or some<sup>infinity</sup>) of the above, then you are in the right galaxy.
 
-Just run the command **_`npx create-react-app --template lennie`_** when initializing your React project and you are good to go.
+Just run the command **_`npx create-react-app app-name --template lennie`_** when initializing your React project and you are good to go.
 
 ## Available Scripts
 
